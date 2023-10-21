@@ -7,7 +7,7 @@
   align-items: center; /* Center vertically */
   width: 100vw; /* Full viewport width */
   height: 100vh; /* Full viewport height */
-  background-color: #f0f0f0; /* Background color for the holder */
+  /* Background color for the holder */
 }
 
 /* Apply styles to item-1 */
